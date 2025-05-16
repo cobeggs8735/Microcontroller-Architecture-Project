@@ -1,5 +1,5 @@
 # Microcontroller-Architecture-Project
-Final project conducted for the Microcontroller Architecture class for the Engineering Technology and Industrial Distribution department of Texas A&amp;M University
+Final project designed for the Microcontroller Architecture class (ESET 349) in the Engineering Technology and Industrial Distribution department of Texas A&amp;M University
 
 ## Summary
 This file is an embedded program for a microcontroller-based snack vending machine.
